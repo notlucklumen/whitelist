@@ -1,0 +1,14 @@
+{
+  "whitelist": [
+    {
+      "NAME": "Sammywammylol502",
+      "TAG": {
+        "TEXT": "[LUMEN 😭]",
+        "FONT": "Arcade",
+        "FONT_SIZE": 30,
+        "COLOR": [129, 51, 255],
+        "ICON": "rbxassetid://7783506016"
+      }
+    }
+  ]
+}
